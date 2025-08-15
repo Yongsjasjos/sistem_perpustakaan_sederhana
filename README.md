@@ -31,7 +31,7 @@ Program ini mensimulasikan sistem peminjaman buku di perpustakaan sekolah dengan
 
 Flowchart berikut menggambarkan logika utama dalam program:
 
-![Flowchart Program](flowchart.png)
+![Flowchart Program](flowchart.jpg)
 
 ---
 
