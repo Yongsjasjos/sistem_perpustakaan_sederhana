@@ -136,3 +136,13 @@ Input hari salah.
 Proyek ini dibuat untuk keperluan pendidikan dan pengembangan keterampilan siswa di lingkungan sekolah. Bebas digunakan dan dimodifikasi untuk tujuan pembelajaran.
 
 ---
+## 👨‍💻 Tentang Pengembang
+
+**Yoga Pratama**  
+📧 Email: [yp170090@gmail.com](mailto:yp170090@gmail.com)  
+🔗 LinkedIn: [linkedin.com/in/yoga-pratama-923202349](https://www.linkedin.com/in/yoga-pratama-923202349/)  
+🐱 GitHub: [github.com/Yongsjasjos](https://github.com/Yongsjasjos)
+
+---
+
+> Untuk saran, masukan, atau kolaborasi, silakan hubungi saya melalui kanal yang tersedia di atas.
